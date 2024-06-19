@@ -1,0 +1,35 @@
+
+.Header {
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.Calculator {
+  color: black;
+  margin-top: 2.5rem;
+}
+
+.Calculator a {
+  color:blue;
+  text-decoration: none;
+}
+
+.Calculator a:hover {
+  color:deepskyblue;
+}
+
+.Rock_Paper {
+    color: black;
+    margin-top: 2.5rem;
+}
+
+.Rock_Paper a {
+  color: blue;
+  text-decoration: none;
+}
+
+.Rock_Paper a:hover {
+  color:deepskyblue;
+}
