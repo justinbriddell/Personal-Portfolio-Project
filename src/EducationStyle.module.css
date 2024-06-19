@@ -1,0 +1,33 @@
+
+.TempleLogo{
+    text-align: left;
+    
+}
+
+.Education_Header{
+    color:white;
+    background-color: rgb(163, 38, 56);
+    text-align: center;
+    margin-top: 8rem;
+}
+
+.Major{
+    text-align: left;
+    margin-top: -19rem;
+    margin-left: 19rem;
+}
+.Classification{
+    text-align: left;
+    margin-left: 19rem;
+    margin-top: 3.5rem;
+}
+.Courses{
+    text-align: left;
+    margin-left: 19rem;
+    margin-top: 3.5rem;
+}
+.GPA{
+    text-align: left;
+    margin-left: 19rem;
+    margin-top: 3.5rem;
+}
